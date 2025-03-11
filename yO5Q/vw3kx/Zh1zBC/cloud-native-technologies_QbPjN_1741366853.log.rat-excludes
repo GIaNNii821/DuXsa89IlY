@@ -6,7 +6,6 @@ DISCLAIMER-WIP
 beans.xml
 # addons/common/marshallers/avro/src/main/resources/jsonNode.avsc
 jsonNode.avsc
-# addons/common/marshallers/avro/src/main/resources/spec.avsc
 spec.avsc
 # addons/common/marshallers/avro/src/test/avro/pojo.avsc
 pojo.avsc
