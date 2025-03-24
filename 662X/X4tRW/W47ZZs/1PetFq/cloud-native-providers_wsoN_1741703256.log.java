@@ -30,7 +30,6 @@ public class CacheCleanupTask extends AsyncPeriodicWork {
     }
 
     @Override
-    protected void execute(TaskListener listener) {
         CacheConfiguration config = CacheConfiguration.get();
 
         // make sure threshold is active
