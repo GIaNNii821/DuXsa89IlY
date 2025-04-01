@@ -11,7 +11,6 @@ int: ### Run integration tests (doesn't download redis server)
 	${MAKE} -C integration int
 
 .PHONY: ci
-ci: ### Run full tests suite (including download and compilation of proper redis server)
 	${MAKE} test
 	${MAKE} -C integration redis_src/redis-server int
 	${MAKE} testrace
