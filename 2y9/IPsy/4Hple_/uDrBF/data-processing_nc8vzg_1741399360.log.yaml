@@ -18,7 +18,6 @@ github:
   description: "Apache Spark - A unified analytics engine for large-scale data processing"
   homepage: https://spark.apache.org/
   labels:
-    - python
     - scala
     - r
     - java
