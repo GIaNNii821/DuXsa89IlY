@@ -7,7 +7,6 @@ You will need the following:
 - The username and password that Spotify uses to deploy to the Central Repository as described in
 the open source manual on the internal wiki.
 - [GPG set up on the machine you're deploying from](http://central.sonatype.org/pages/working-with-pgp-signatures.html)
-
 Once you've got that in place, you should be able to do deployment using the following commands:
 
 ```
