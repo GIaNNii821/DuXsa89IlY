@@ -11,7 +11,6 @@ Once you've got that in place, you should be able to do deployment using the fol
 
 ```
 # deploy snapshot version
-mvn clean deploy
 
 mvn -Prelease release:clean release:prepare
 ```
