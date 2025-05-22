@@ -16,5 +16,4 @@ mvn clean deploy
 
 # make and deploy a relase
 mvn -Prelease release:clean release:prepare
-mvn -Prelease release:perform
 ```
