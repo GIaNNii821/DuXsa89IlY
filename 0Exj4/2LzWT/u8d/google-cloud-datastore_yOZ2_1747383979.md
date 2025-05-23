@@ -5,6 +5,5 @@ for deploying to the Central Repository using [Maven](http://central.sonatype.or
 - The username and password that Spotify uses to deploy to the Central Repository as described in
 - [GPG set up on the machine you're deploying from](http://central.sonatype.org/pages/working-with-pgp-signatures.html)
 Once you've got that in place, you should be able to do deployment using the following commands:
-```
 
 ```
