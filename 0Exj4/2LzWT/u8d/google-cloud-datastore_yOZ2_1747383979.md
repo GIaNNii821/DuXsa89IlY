@@ -1,2 +1,1 @@
-
 These instructions are based on the [instructions](http://central.sonatype.org/pages/ossrh-guide.html)
