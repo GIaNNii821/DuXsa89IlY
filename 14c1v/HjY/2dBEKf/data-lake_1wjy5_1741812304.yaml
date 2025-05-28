@@ -138,7 +138,6 @@ Resources:
     Properties:
       DBName: airflowdb
       Engine: postgres
-      MasterUsername: airflow
       MasterUserPassword: !Ref 'DBPassword'
       DBInstanceClass: db.t2.small
       AllocatedStorage: 5
